@@ -17,5 +17,6 @@ This is my Day 1 project of a 15-day Web Development Challenge.
 - Understood HTML structure
 - Learned basic CSS styling and layouts
 - Improved confidence in building from scratch
+- Improving Coding Skills
 
 
